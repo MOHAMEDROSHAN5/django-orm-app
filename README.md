@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](./er.png)
+![Entity Relationship Diagram](./studentout.jpg)
 
 ## DESIGN STEPS
 
@@ -58,7 +58,8 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./output.png)
+![OUTPUT](./studentout.jpg)
+![OUTPUT](./primaryout.jpg)
 
 
 ## RESULT
