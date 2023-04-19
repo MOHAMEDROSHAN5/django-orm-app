@@ -58,8 +58,11 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![OUTPUT](img/studentout.jpg)
-![OUTPUT](img/primaryout.jpg)
+![OUTPUT](./studentout.jpg)
+
+## PRIMARY OUTPUT
+
+![OUTPUT](./primaryout.jpg)
 
 
 ## RESULT
